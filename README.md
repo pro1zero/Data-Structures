@@ -3,8 +3,10 @@
 Public repository for Data Structures using Java workshop. 
 
 Homework: Try this questions on Leetcode: [STACKS](https://github.com/pro1zero/Data-Structures/tree/master/Stacks).
-1.[5 min READ](https://leetcode.com/problems/daily-temperatures/solution/).
-2.[Daily Temperatures] (https://leetcode.com/problems/daily-temperatures/).
+
+1. [Monotonic Stack](https://leetcode.com/problems/daily-temperatures/solution/). (Scroll down and see approach 1)
+2. [Daily Temperature](https://leetcode.com/problems/daily-temperatures/).
+3. [Min Stack](https://leetcode.com/problems/min-stack/).
 
 
 Homework: Try this questions on Leetcode: [ARRAYS](https://github.com/pro1zero/Data-Structures/tree/master/Arrays).
