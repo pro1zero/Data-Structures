@@ -5,7 +5,7 @@ Public repository for Data Structures using Java workshop.
 Homework: [SORTING](https://github.com/pro1zero/Data-Structures/tree/master/Sorting).
 
 1. [5 min READ](https://www.interviewbit.com/tutorial/quicksort-algorithm/).
-2. [Sort an array] (https://leetcode.com/problems/sort-an-array/). [Use Quick Sort to sort this array. Can you sort the array by taking pivot as the last element in the array?]
+2. [Sort an array](https://leetcode.com/problems/sort-an-array/). [Use Quick Sort to sort this array. Can you sort the array by taking pivot as the last element in the array?]
 
 
 
