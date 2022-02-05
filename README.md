@@ -2,7 +2,7 @@
 
 Public repository for Data Structures using Java workshop. 
 
-Find **RECORDINGS** [here](https://drive.google.com/drive/folders/1yjBVX1eGLQUYwbxOqMZ7q3yIYC4eo1OD)
+# Find **RECORDINGS** [here](https://drive.google.com/drive/folders/1yjBVX1eGLQUYwbxOqMZ7q3yIYC4eo1OD)
 
 **Homework:** _Try to implement these functions in our LinkedList.java file: removeAtPosition(int ithPosition), removeValue(int valueToRemove), removeBefore(int ithValue), removeAfter(int ithValue), removeAllOccurences(int value) for_ [LINKEDLIST](https://github.com/pro1zero/Data-Structures/tree/master/LinkedList).
 
