@@ -4,8 +4,10 @@ Public repository for Data Structures using Java workshop.
 
 Find **RECORDINGS** [here](https://drive.google.com/drive/folders/1yjBVX1eGLQUYwbxOqMZ7q3yIYC4eo1OD)
 
-**Homework: Try to implement these functions in our LinkedList.java file: removeAtPosition(int ithPosition), removeValue(int valueToRemove), removeBefore(int ithValue), removeAfter(int ithValue), removeAllOccurences(int value) for** [LinkedList]
-**Homework: Try Merge Sort on the same sorting question on Leetcode and below problems for** [HASH TABLE](https://github.com/pro1zero/Data-Structures/tree/master/Hashing).
+**Homework: Try to implement these functions in our LinkedList.java file: removeAtPosition(int ithPosition), removeValue(int valueToRemove), removeBefore(int ithValue), removeAfter(int ithValue), removeAllOccurences(int value) for** [LINKEDLIST](https://github.com/pro1zero/Data-Structures/tree/master/LinkedList).
+
+
+**Homework: Try Merge Sort on the same sorting question on Leetcode and below problems for** [HASHTABLE](https://github.com/pro1zero/Data-Structures/tree/master/Hashing).
 
 1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/).
 2. [Set Zeroes in Matrix](https://leetcode.com/problems/set-matrix-zeroes/solution/).
