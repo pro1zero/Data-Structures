@@ -6,6 +6,13 @@ Public repository for Data Structures using Java workshop.
 
 ## Solve the questions correctly and pull request, I will verify your solutions and merge them in Master.
 
+**Homework: Try to solve these questions in a bruteforce approach, then read theories, discussions, and try again to optimize.**
+
+1. [Remove Nth Node from End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/).
+2. [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/).
+
+<br>
+
 **Homework:** _Try to implement these functions in our LinkedList.java file: removeAtPosition(int ithPosition), removeValue(int valueToRemove), removeBefore(int ithValue), removeAfter(int ithValue), removeAllOccurences(int value) for_ [LINKEDLIST](https://github.com/pro1zero/Data-Structures/tree/master/LinkedList).
 
 <br>
