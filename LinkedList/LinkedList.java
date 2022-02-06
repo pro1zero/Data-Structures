@@ -98,7 +98,10 @@ public class LinkedList {
         // time: O(N)
     public boolean replace(int oldValue, int newValue){
         Node temp = findNodeWithValue(oldValue);
-        if(temp != null) temp.value = newValue;
+        if(temp != null){
+            temp.value = newValue;
+            return true;
+        } 
         return false;
     }
 
