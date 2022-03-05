@@ -6,6 +6,10 @@ Public repository for Data Structures using Java workshop.
 
 ## Solve the questions correctly and pull request, I will verify your solutions and merge them in Master.
 
+Homework: Revise [LRUCache](https://github.com/pro1zero/Data-Structures/tree/master/Cache) and [this](https://github.com/pro1zero/jeuxintelligents/blob/main/VERYHARD/LRUCache.java) implementation as well. Try to solve the following problem.
+
+1. [LFU Cache](https://leetcode.com/problems/lfu-cache/) _Same concept, different implementation._
+
 **Homework: Revise** [Trie](https://github.com/pro1zero/Data-Structures/blob/master/Trie/Trie.java) **Implementation and try following problem:** 
 
 1. [Implement Search and Add Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) _[Uses dfs on top of Trie]_
