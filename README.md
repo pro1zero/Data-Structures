@@ -6,7 +6,19 @@ Public repository for Data Structures using Java workshop.
 
 ## Solve the questions correctly and pull request, I will verify your solutions and merge them in Master.
 
-**Homework: Try to solve these questions in a bruteforce approach, then read theories, discussions, and try again to optimize.**
+**Homework: Revise** [Trie](https://github.com/pro1zero/Data-Structures/blob/master/Trie/Trie.java) **Implementation and try following problem:** 
+
+1. [Implement Search and Add Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) _[Uses dfs on top of Trie]_
+
+**Homework: These are some EASY problems for Trees and** [BSTs](https://github.com/pro1zero/Data-Structures/tree/master/Trees).
+
+1. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+2. [Symmetric Trees](https://leetcode.com/problems/symmetric-tree/)
+3. [Same Binary Tree](https://leetcode.com/problems/same-tree/)
+4. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+5. [Recover BST](https://leetcode.com/problems/recover-binary-search-tree/)
+
+**Homework: Try to solve these questions in a bruteforce approach, then read theories, discussions, and try again to optimize for [LinkedList](https://github.com/pro1zero/Data-Structures/tree/master/LinkedList).**
 
 1. [Remove Nth Node from End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/).
 2. [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/).
